@@ -89,13 +89,13 @@ description: >-
 
 ![&#x4EA7;&#x54C1;&#x7ECF;&#x7406;&#x8FDB;&#x9636;&#x56FE;](../.gitbook/assets/chan-pin-jing-li-jin-jie.png)
 
-![&#x6BCF;&#x4E2A;&#x77E5;&#x8BC6;&#x70B9;&#x6309;&#x7167;&#x7B49;&#x7EA7;&#x9010;&#x6E10;&#x52A0;&#x6DF1;&#x548C;&#x8FDB;&#x9636;](../.gitbook/assets/image.png)
+![&#x6BCF;&#x4E2A;&#x77E5;&#x8BC6;&#x70B9;&#x6309;&#x7167;&#x7B49;&#x7EA7;&#x9010;&#x6E10;&#x52A0;&#x6DF1;&#x548C;&#x8FDB;&#x9636;](../.gitbook/assets/image%20%281%29.png)
 
 ## 九、学习路径的总结
 
 想要学习产品经理关键就是要积累，所以一定要学基础，但是也要不停地去练，再用理论来指导实践，这样才能学的更快更稳。
 
-![&#x4EA7;&#x54C1;&#x7ECF;&#x7406;&#x5B66;&#x4E60;&#x8DEF;&#x5F84;](../.gitbook/assets/image%20%281%29.png)
+![&#x4EA7;&#x54C1;&#x7ECF;&#x7406;&#x5B66;&#x4E60;&#x8DEF;&#x5F84;](../.gitbook/assets/image%20%285%29.png)
 
 ## 十、课题思考作业 -  在过去的几年经历了哪些成长和收获
 
